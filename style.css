@@ -1,0 +1,51 @@
+html {
+    background-color: whitesmoke;
+}
+
+
+.welcome {
+    font-size: 32px;
+    text-align: center;
+    color: #269289;
+}
+
+.welcome2 {
+    font-size: 32px;
+    text-align: center;
+    color: #F79327;
+}
+
+.pic {
+    height: 340px;
+    width: 490px;
+    border: 20px solid black;
+    padding: 7px;
+    margin:20px;
+}
+ 
+.title {
+    margin-left: 14px;
+}
+
+.name {
+    text-align: center;
+    color: #269289;
+}
+
+.secimg {
+    height: 340px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px dashed green;
+    padding: 10px;
+}
+
+.descrption {
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+font-family: 'Merienda', cursive;
+color: black;
+}
