@@ -49,3 +49,49 @@ html {
 font-family: 'Merienda', cursive;
 color: black;
 }
+
+hr {
+    height: 7px;
+    background-color: black;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutwelcome {
+    text-align: center;
+    color: blue;
+}
+
+.story {
+    text-align: center;
+    color: red;
+}
+
+.the-story {
+    text-align: center;
+    font-size: 27px;
+}
+
+.the-story2 {
+    font-size: 26px;
+    text-align: center;
+}
+
+.thankyou {
+    font-size: 25px;
+    text-align: center;
+    color: green;
+}
+
+.thankyouimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact {
+    text-align: center;
+}
