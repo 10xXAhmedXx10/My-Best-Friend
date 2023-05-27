@@ -95,3 +95,9 @@ footer {
 .contact {
     text-align: center;
 }
+
+.all {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
